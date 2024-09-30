@@ -1,0 +1,11 @@
+{'rendszam': 'TRU-234', 'tipus': 'Opel Astra', 'kor': 21}
+{'rendszam': 'HGT-873', 'tipus': 'Mazda Mazda3', 'kor': 3}
+{'rendszam': 'LOT-295', 'tipus': 'Toyota Yaris', 'kor': 1}
+{'rendszam': 'OPO-223', 'tipus': 'Seat Cordoba', 'kor': 9}
+{'rendszam': 'PPT-111', 'tipus': 'Alfa Romeo', 'kor': 4}
+{'rendszam': 'RET-776', 'tipus': 'Ford C-Max', 'kor': 5}
+{'rendszam': 'ETW-231', 'tipus': 'BMW i3', 'kor': 2}
+{'rendszam': 'SSA-772', 'tipus': 'Hyundai i30', 'kor': 5}
+{'rendszam': 'KCT-254', 'tipus': 'Opel Corsa', 'kor': 12}
+{'rendszam': 'GGT-434', 'tipus': 'Toyota Prius', 'kor': 4}
+{'rendszam': 'JTZ-774', 'tipus': 'Ford Fiesta', 'kor': 25}
